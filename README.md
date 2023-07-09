@@ -8,6 +8,8 @@ Welcome to CodeMagicBox! This repository is a collection of tips and tricks for 
 - [Getting Started](#getting-started)
 - [Tips and Tricks](#tips-and-tricks)
 - [Contributing](#contributing)
+- [Features](#Features)
+- [Feedback](#Feedback)
 
 ## Introduction
 
@@ -43,10 +45,16 @@ We welcome contributions from the community to make CodeMagicBox an even better 
 4. Commit and push your changes to your forked repository.
 5. Submit a pull request to the main repository.
 
-Please ensure that your contributions adhere to our [code of conduct](CODE_OF_CONDUCT.md) and are in line with the repository's purpose and style.
+## Features
+
+- Comprehensive Collection
+- Practical Tips and Tricks
+- Code Snippets
+- Constant Updates
 
 ## Feedback
 
 We appreciate your feedback and suggestions for improving CodeMagicBox. If you have any questions, ideas, or issues, please feel free to open an issue on the repository. We value your input and look forward to building a vibrant and collaborative community.
 
 Let's dive into the magical world of coding together with CodeMagicBox!
+Happy coding with CodeMagicBox!
